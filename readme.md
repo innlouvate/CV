@@ -3,33 +3,28 @@
 ###### https://github.com/innlouvate | https://www.linkedin.com/in/louise-franklin-a8a59519
 ----
 
-I've spent several years working in the tech industry in various roles and now work as a developer. Passionate about creating the best possible solutions and hold myself to a high standard.
+I've spent several years working in the tech industry in various roles and now work as a developer, passionate about creating the best possible solutions and holding myself to a high standard. I'm an open source advocate and agile proponent who believes firmly that everyone has skills to contribute and that even the best ideas can be improved upon if you're not afraid to ask another's opinion.
 
 ## Skills
 
 #### Diving in the deep-end
-- I'm not easily overwhelmed, having spent several years working in consulting, often being pulled into projects which were initially out of my comfort zone and very quickly
-- Working with a large banking and investment client I was asked to help ready the IT group for major changes to the organisation structure in an extremely limited timeframe (6 weeks), to ensure that access to systems and
+I'm not easily overwhelmed having spent several years working in consulting, often being pulled into projects which were initially out of my comfort zone, and quickly getting up to speed with large quantities of information to lead individual areas or provide input as a trusted advisor.
+- Working with a large banking and investment client I was asked to help ready the IT group for major changes to the organisation structure to ensure that business could continue as normal, I had to quickly understand the clients heavily customised system integrations and help prioritise where to focus our efforts. Several thousand people were effected with over 90% success, a feat which was deemed a miracle given the extremely tight timeframe.
+
+#### Self-driving
+Much like a google car I enjoy navigating my way through complex projects or career changes, imposing self-set targets in order to continually move forward.
+- Joining a long running project I identified a number of immediate requirements which would allow us to move forward more cohesively and took it upon myself to set deadlines and drive the delivery of these, listing out where I needed input from other teams and what elements I could complete myself. This subsequently enabled the teams to work more efficiently and joined-up as a result.
+- As the primary EMEA and Asia lead in the deployment of Deloitte’s new tax compliance technology solution I devised two tiers for clients entering the deployment cycle and set ambitious targets for the onboarding process which allowed us to exceed leadership targets whilst using client feedback to continue to develop the platform.
 
 #### Communicator & Peacemaker
 As a project manager and tech business analyst I was frequently required to communicate with and between very different stakeholder groups, sometime where these were in conflict.
-- While building the next generation of an online client tax platform I was one of the only people a particular dev team would not get annoyed by when reporting issues, due to my clear layout and depth of exploration. Leading me to become a central through-point between the dev team and other business side teams.
-- As a programme manager for the delivery of Deloitte's Tax Compliance & Reporting initiative, comprising 21 teams and 400 people, I built strong relationships with colleagues and clients across the globe, including senior partners and those from a diverse range of internal support functions, such as marketing and communications.
-
-#### Analytical
-
-#### Self-driven
-leading the deployment of Deloitte’s new management enabling technology solution for tax compliance and reporting services across all new multinational clients outside the US.
+- While building the next generation of an online client tax platform I was one of the only people a particular dev team would not get annoyed at for reporting issues due to my clear layout and depth of exploration. Leading me to become a central through-point between the dev team and other business side teams, managing the communication styles and requirements of each to reduce conflict.
+- I enjoy those occasions where I have had the opportunity to explain a coding concept to my pair partner, using this to cement my own interpretation, and take great satisfaction in their subsequent understanding by trying to provoke the discussion with questions rather than recite textbook answers.
 
 #### Collaboration & teamwork
- - open source & data - oknf hack to look at local council spending, lab week project on crime stats api
-
-Collaborating on the features of Deloitte’s new management enabling technology solution for tax compliance and reporting services; determining detailed specifications based on business requirements and design prioritisation which would allow the business to meet leadership targets.
-Design, implementation and rollout of a knowledge management solution for a global business unit. Including the integration of this in day-to-day business, assimilation with local country procedures and development of a global best practice.
-Production of an interactive quarterly market insight report for Global Compliance and Reporting Services which has been used to solidify our strategy, increase executive visibility of the business unit and by Deloitte’s global CEO to verify project funding decisions.
-Development of a project reporting process and input into devising appropriate KPI’s to monitor ongoing project milestones and programme success. Including how we might track the marketplace benefit of running an internal initiative worth c$20m over two years.
-Building strong relationships with people from across the globe. Including senior partners and those from a diverse range of internal support functions, such as marketing and communications.
-Presenting complex problems to everyone from junior analysts to executive board groups and clients and gaining their support for my proposed solutions.
+As an open source fan I believe that collaboration can create fantastic products and benefit both the end product and those who contribute.
+- As a member of empower hack I worked on a project to look at how medical record information could be stored by refugees and shared with medical professionals on their journey. There are a number of huge problems to overcome in order to create a technological solution which would be viable and having come up with an initial idea I have spent time in conversation with front-line doctors to understand their needs and concerns as well as collaborating with NGO's to explain how the tech could work and limitations. I hope to carry forward some of these ideas in my spare time as an ongoing project within empower hack's volunteer incubator.
+- During our final project at Maker's we formed a particularly tight team, able to read one another's mood and use humour to break moments of stress. As a team of only three people I would occasionally be working alone on a feature but would frequently break to be a 'rubber-duck' for other team members or help with a particular issue and would borrow other team members to talk through issues I was having. Consequently, we were able to keep clear communication on the team with everyone being aware of what others were working on. 
 
 ## Education
 
