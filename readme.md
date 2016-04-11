@@ -24,7 +24,7 @@ As a project manager and tech business analyst I was frequently required to comm
 #### Collaboration & teamwork
 As an open source fan I believe that collaboration can create fantastic products and benefit both the end product and those who contribute.
 - As a member of empower hack I worked on a project to look at how medical record information could be stored by refugees and shared with medical professionals on their journey. There are a number of huge problems to overcome in order to create a technological solution which would be viable and having come up with an initial idea I have spent time in conversation with front-line doctors to understand their needs and concerns as well as collaborating with NGO's to explain how the tech could work and limitations. I hope to carry forward some of these ideas in my spare time as an ongoing project within empower hack's volunteer incubator.
-- During our final project at Maker's we formed a particularly tight team, able to read one another's mood and use humour to break moments of stress. As a team of only three people I would occasionally be working alone on a feature but would frequently break to be a 'rubber-duck' for other team members or help with a particular issue and would borrow other team members to talk through issues I was having. Consequently, we were able to keep clear communication on the team with everyone being aware of what others were working on. 
+- During our final project at Maker's we formed a particularly tight team, able to read one another's mood and use humour to break moments of stress. As a team of only three people I would occasionally be working alone on a feature but would frequently break to be a 'rubber-duck' for other team members or help with a particular issue and would borrow other team members to talk through issues I was having. Consequently, we were able to keep clear communication on the team with everyone being aware of what others were working on.
 
 ## Education
 
@@ -54,8 +54,10 @@ As an open source fan I believe that collaboration can create fantastic products
 *Senior Consultant - BA & IT Strategy*  
 **Deloitte Tax Management Consulting** (2010 - 2014)   
 *Manager - Tax Technology - Programme Manager, Product BA & Implementation Manager*
+
 **Deloitte International Tax** (2007 - 2010)   
 *Assistant Manager - Tax Advisor*
+
 **Theatre/event lighting and sound technician** (2004 - 2007)   
 *Freelancer*
 
