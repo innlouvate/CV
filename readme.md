@@ -52,6 +52,7 @@ As an open source fan I believe that collaboration can create fantastic products
 
 **Deloitte Technology Strategy & Architecture** (May 2014 - Dec 2015)    
 *Senior Consultant - BA & IT Strategy*  
+
 **Deloitte Tax Management Consulting** (2010 - 2014)   
 *Manager - Tax Technology - Programme Manager, Product BA & Implementation Manager*
 
