@@ -1,5 +1,5 @@
 ## Lou Franklin
-###### London | l.j.franklin85@googlemail.com | @innlouvate
+###### London | @innlouvate
 ###### https://github.com/innlouvate | https://www.linkedin.com/in/louise-franklin-a8a59519
 ----
 
